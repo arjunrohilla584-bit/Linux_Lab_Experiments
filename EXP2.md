@@ -180,10 +180,6 @@ df -h >> system_info.txt
 
 ```
 
-### Output:
-<p align="center">
-<img align="center" src="img/t7.png" width="900">
-</p>
 
 ## TASK 8: [File Organisation]
 
@@ -200,11 +196,6 @@ cp test_project/data/project_info.txt    test_project/docs/notes.txt    test_pro
 
 ```
 
-### Output:
-<p align="center">
-<img align="center" src="img/t8.png" width="900">
-</p>
-
 
 ## TASK 9: [Process and History]
 
@@ -219,11 +210,6 @@ cp test_project/data/project_info.txt    test_project/docs/notes.txt    test_pro
 ```
 history 10
 ```
-
-### Output:
-<p align="center">
-<img align="center" src="img/t9.png" width="900">
-</p>
 
 ## TASK 10: [Comprehensive Cleanup]
 
@@ -254,6 +240,7 @@ find . -type d | wc -l >> summary.txt
 
 
 <img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/57617c7e-7396-4416-8e24-0904ee19b84b" />
+
 
 
 
