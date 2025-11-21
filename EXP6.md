@@ -34,7 +34,8 @@ done
 
 ### Output:
 
-![test](/.img/6.1.jpg)
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/06b2e0d5-d9a3-4d0e-9f53-a8017dda0641" />
+
 
 ---
 
@@ -53,10 +54,8 @@ done
 ```
 
 ### Output:
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/d713e15a-e275-42b1-98c9-fb0f5a1acaf4" />
 
-<p align="center">
-<img src="/img/t26.png" width="900">
-</p>
 
 ---
 
@@ -76,9 +75,7 @@ done
 
 ### Output:
 
-<p align="center">
-<img src="/img/t27.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/49af05dd-2a38-4b05-b780-6adaa786ddf4" />
 
 ---
 
@@ -108,9 +105,7 @@ done
 
 ### Output:
 
-<p align="center">
-<img src="/img/t28.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/6cec6c3d-3e6a-4159-b240-a9d6543a19a4" />
 
 ---
 
@@ -131,10 +126,8 @@ done
 ```
 
 ### Output:
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/2ed6f46a-110e-485a-8a26-de8e8e27926f" />
 
-<p align="center">
-<img src="/img/t29.png" width="900">
-</p>
 
 ---
 
@@ -160,9 +153,8 @@ done
 
 ### Output:
 
-<p align="center">
-<img src="/img/t30.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/e8259ad9-f3e6-4400-9e4e-718665fac353" />
+
 
 ---
 
@@ -185,9 +177,8 @@ done
 
 ### Output:
 
-<p align="center">
-<img src="/img/t31.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/95533bd7-8fa4-400d-b98a-da9115c48e88" />
+
 
 ---
 
@@ -206,5 +197,6 @@ done
 * Loops are powerful for automation in shell scripting. Correct quoting and use of control constructs prevent common bugs.
 
 ## Conclusion
+
 
 The lab demonstrated practical loop constructs in Bash for automating repetitive tasks and processing data efficiently.
