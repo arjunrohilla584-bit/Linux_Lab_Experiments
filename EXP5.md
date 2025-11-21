@@ -47,9 +47,7 @@ fi
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img\t23.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/f4b9c42d-d075-4365-88eb-961e3f67cc48" />
 
 ## Exercise 2: [Sum of Digits]
 
@@ -77,9 +75,8 @@ echo "Sum of digits: $sum"
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t24.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/8fa80de4-4e13-40c4-806f-56c41b3f2801" />
+
 
 ## Exercise 3: [Armstrong Numbers]
 
@@ -114,9 +111,8 @@ fi
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t25.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/08806203-bcb5-4adb-9957-4de42805a194" />
 
 ## Result:
+
 * The Exercises were successfully completed for Basic Shell Scripting.
