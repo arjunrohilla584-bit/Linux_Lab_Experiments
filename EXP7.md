@@ -36,10 +36,8 @@ w
 ```
 
 ### Output:
+<img width="1483" height="969" alt="Screenshot 2025-11-21 184935" src="https://github.com/user-attachments/assets/802cce44-7d1c-48fd-bf12-beee04e2ef54" />
 
-<p align="center">
-<img src="/img/t32.png" width="900">
-</p>
 
 ---
 
@@ -58,10 +56,9 @@ fg %1
 ```
 
 ### Output:
+<img width="1483" height="969" alt="Screenshot 2025-11-21 185321" src="https://github.com/user-attachments/assets/9e29de41-ff9d-4d53-bf0d-945fa499ea04" />
 
-<p align="center">
-<img src="/img/t33.png" width="900">
-</p>
+
 
 ---
 
@@ -81,9 +78,8 @@ kill <pid>
 
 ### Output:
 
-<p align="center">
-<img src="/img/t34.png" width="900">
-</p>
+<img width="1483" height="969" alt="Screenshot 2025-11-21 185321" src="https://github.com/user-attachments/assets/99a8dc12-32e3-486f-8818-4cd1bd7e6404" />
+
 
 ---
 
@@ -100,11 +96,6 @@ ps aux | head -5
 top
 ```
 
-### Output:
-
-<p align="center">
-<img src="/img/t35.png" width="900">
-</p>
 
 ---
 
@@ -122,11 +113,6 @@ crontab -e
 0 7 * * * /home/user/myscript.sh
 ```
 
-### Output:
-
-<p align="center">
-<img src="/img/t36.png" width="900">
-</p>
 
 ---
 
@@ -144,10 +130,9 @@ atq
 ```
 
 ### Output:
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/21c6f1a6-1631-4bb6-958b-864eb73825e3" />
 
-<p align="center">
-<img src="/img/t37.png" width="900">
-</p>
+
 
 ---
 
@@ -169,5 +154,6 @@ atq
 * Learned job control and scheduling using `cron` and `at`.
 
 ## Conclusion
+
 
 This experiment provided practical experience with shell scripting, process management, and scheduling. These are critical skills for system administrators to automate and control Linux environments effectively.
