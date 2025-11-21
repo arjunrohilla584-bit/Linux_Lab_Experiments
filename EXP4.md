@@ -27,9 +27,8 @@ echo "Hello, World!"
 ```
 
 #### Output:
-<p align="center">
-<img src="/img/t19.png"alt="t1" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/a10789a4-c5f7-44ad-83f0-5ffed42b29a8" />
+
 
 ## Exercise 2: [Personalized Greeting Script]
 
@@ -49,9 +48,8 @@ echo "Hello, $name! Welcome to Shell Scripting."
 ``` 
 
 ## Output:
-<p align="center">
-<img src="img/t20.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/d8f1bcca-5c17-489e-bf0d-4d37da363117" />
+
 
 ## Exercise 3: [Arithmetic Operations in Shell Scripting]
 
@@ -75,10 +73,8 @@ echo "Division: $((num1 / num2))"
 ```
 
 ## Output:
-<p align="center">
-<img align="center" 
-src="img/t21.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/80dfcb84-6610-408a-9301-0990a5817fb5" />
+
 
 ## Exercise 4:
 * [Voting Eligibility]
@@ -103,10 +99,9 @@ fi
 ```
 
 ## Output:
-<p align="center">
-<img align="center" 
-src="img/t22.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/2ead419a-abb8-4a60-9b12-26bed62e7278" />
+
 
 ## Result
+
 * The Exercises were successfully completed for Basic Shell Scripting
