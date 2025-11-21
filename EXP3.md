@@ -38,9 +38,7 @@ touch -t 202401151430 dated_file.txt
 
 ### Output:
 
-<p align="center">
-<img src="/img/t11.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/5e96dc99-851a-4136-b002-1e238da322a5" />
 
 ---
 
@@ -60,10 +58,8 @@ rm -r old_directory/
 ```
 
 ### Output:
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/7767eacd-c9a2-4164-bae2-5ab2becfba65" />
 
-<p align="center">
-<img src="/img/t12.png" width="900">
-</p>
 
 ---
 
@@ -85,9 +81,8 @@ tail -f /var/log/syslog
 
 ### Output:
 
-<p align="center">
-<img src="/img/t13.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/0cb0f092-13d0-480c-97b9-90c67123d5dd" />
+
 
 ---
 
@@ -132,9 +127,8 @@ find /tmp -type f -empty -delete
 
 ### Output:
 
-<p align="center">
-<img src="/img/t15.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/b7d31615-a03c-4ed3-b938-f0d05ebc045a" />
+
 
 ---
 
@@ -155,9 +149,8 @@ grep -n "TODO" *.txt
 
 ### Output:
 
-<p align="center">
-<img src="/img/t16.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/18f69c21-c59d-446b-b998-5bfb90477bc8" />
+
 
 ---
 
@@ -178,9 +171,8 @@ gunzip largefile.txt.gz
 
 ### Output:
 
-<p align="center">
-<img src="/img/t17.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/1829f2e0-f77e-45cf-a53e-b9c8fe89bd6d" />
+
 
 ---
 
@@ -201,9 +193,8 @@ ls -li original.txt hardlink.txt symlink.txt
 
 ### Output:
 
-<p align="center">
-<img src="/img/t18.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/157c1a7d-3314-4717-8455-aa3311d3418e" />
+
 
 ---
 
@@ -229,5 +220,6 @@ ls -li original.txt hardlink.txt symlink.txt
 * Understood differences between hard and symbolic links.
 
 ## Conclusion
+
 
 This experiment provided hands-on experience with core Linux file management, permissions, searching, archiving, and linking. These are foundational skills for effective Linux system administration and daily usage.
