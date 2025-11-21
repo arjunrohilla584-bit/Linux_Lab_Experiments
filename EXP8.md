@@ -44,9 +44,8 @@ fi
 
 ### Output:
 
-<p align="center">
-<img src="/img/t38.png" width="900">
-</p>
+<img width="1483" height="767" alt="Screenshot 2025-11-21 182455" src="https://github.com/user-attachments/assets/6fb95180-c419-4137-93e7-466ed15d5c5c" />
+
 
 ---
 
@@ -75,9 +74,7 @@ esac
 
 ### Output:
 
-<p align="center">
-<img src="/img/t39.png" width="900">
-</p>
+<img width="1483" height="969" alt="Screenshot 2025-11-21 182953" src="https://github.com/user-attachments/assets/f3823143-ead9-4e17-b616-09b8639517ba" />
 
 ---
 
@@ -106,9 +103,7 @@ done
 
 ### Output:
 
-<p align="center">
-<img src="/img/t40.png" width="900">
-</p>
+<img width="1483" height="969" alt="Screenshot 2025-11-21 183649" src="https://github.com/user-attachments/assets/5b5285ef-8acc-466a-b8df-544059b27a33" />
 
 ---
 
@@ -140,9 +135,8 @@ fi
 
 ### Output:
 
-<p align="center">
-<img src="/img/t41.png" width="900">
-</p>
+<img width="1483" height="969" alt="Screenshot 2025-11-21 183921" src="https://github.com/user-attachments/assets/7cf3b39a-3d48-48c2-aa1d-e95aae5ab0c8" />
+
 
 ---
 
@@ -163,5 +157,6 @@ fi
 * Understood command-line argument handling for automation.
 
 ## Conclusion
+
 
 This experiment extended shell programming by introducing decision-making and parameter handling. The scripts demonstrate the flexibility of shell programming for different use cases.
