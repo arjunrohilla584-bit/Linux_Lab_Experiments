@@ -30,9 +30,8 @@ cd scripts
 pwd
 '''
 ### Output:
-<p align="center">
-<img align="center" src="img\t1.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/2953e1fd-d322-4578-8db4-4183293fc497" />
+
 
 ## TASK 2: [FIle Creation and Content]
 
@@ -54,9 +53,8 @@ cat readme.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t2.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/183efac4-feb9-4f14-b31b-28a2e8ae3ed7" />
+
 
 
 ## TASK 3: [FIle Operations]
@@ -75,9 +73,13 @@ cp readme.txt data/project_info.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t3.png" width="900">
-</p>
+
+
+
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/825b8551-798b-4066-adb9-43ca3a64f56b" />
+
+
+
 
 
 ## TASK 4: [FIle Permissions]
@@ -97,12 +99,11 @@ chmod u+x backup.sh
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t4.1.png" width="900">
-</p>
-<p align="center">
-<img align="center" src="img/t4.2.png" width="900">
-</p>
+
+
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/48968fe8-8fcd-4bad-a38e-9056a8b56016" />
+
+
 
 ## TASK 5: [FIle Viewing]
 
@@ -122,9 +123,8 @@ grep "1"
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t5.png" width="900">
-</p>
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/575f0aa9-46f5-42f6-bcd0-f91e3cacc51b" />
+
 
 
 ## TASK 6: [Text Editing]
@@ -153,10 +153,8 @@ cat config.txt
 
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t6.png" width="900">
-</p>
 
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/482865cd-c8c4-47d4-8181-3e928b073e20" />
 
 ## TASK 7: [System Information]
 
@@ -249,13 +247,13 @@ find . -type d | wc -l >> summary.txt
 ```
 
 ### Output:
-<p align="center">
-<img align="center" src="img/t10.png" width="900">
-</p>
 
 
 
 
+
+
+<img width="1483" height="601" alt="image" src="https://github.com/user-attachments/assets/57617c7e-7396-4416-8e24-0904ee19b84b" />
 
 
 
