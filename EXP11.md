@@ -31,9 +31,8 @@ done
 - Each word becomes a separate iteration of the loop.
 
 ### Output
-<p align="center">
-<img src="img\t1.png" width="900">
-</p>
+<img width="1147" height="635" alt="image" src="https://github.com/user-attachments/assets/d55d61e9-52c1-4002-a3a0-e383ef699839" />
+
 
 ---
 # Exercise 2: Palindrome Check
